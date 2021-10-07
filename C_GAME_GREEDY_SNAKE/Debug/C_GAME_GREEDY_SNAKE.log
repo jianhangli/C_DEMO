@@ -1,0 +1,27 @@
+﻿  GREEDY_SNAKE.c
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(6,16): error C2054: 在“constexpr”之后应输入“(”
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(6,24): error C2085: “maphigh”: 不在形参表中
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(6,24): error C2143: 语法错误: 缺少“;”(在“=”的前面)
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(70,26): error C2065: “maphigh”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(74,17): error C2065: “mapwide”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(77,26): error C2065: “mapwide”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(81,20): error C2065: “maphigh”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(88,23): error C2065: “mapwide”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(89,23): error C2065: “maphigh”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(103,31): error C2065: “mapwide”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(104,31): error C2065: “maphigh”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(110,17): error C2065: “mapwide”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(110,29): error C2065: “maphigh”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(123,32): error C2065: “mapwide”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(124,32): error C2065: “maphigh”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(142,17): error C2065: “mapwide”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(144,17): error C2065: “mapwide”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(146,17): error C2065: “mapwide”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(146,29): error C2065: “maphigh”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(202,17): error C2065: “mapwide”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(206,47): error C2065: “mapwide”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(206,93): error C2065: “maphigh”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(244,19): error C2065: “mapwide”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(244,32): error C2065: “maphigh”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(252,19): error C2065: “mapwide”: 未声明的标识符
+E:\VSpro\C_DEMO\C_GAME_GREEDY_SNAKE\GREEDY_SNAKE.c(252,32): error C2065: “maphigh”: 未声明的标识符
